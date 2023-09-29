@@ -293,7 +293,7 @@ function useHead(input, options = {}) {
     return isBrowser ? clientUseHead(input, options) : serverUseHead(input, options);
   }
 }
-const appHead = { "meta": [{ "name": "viewport", "content": "width=device-width, initial-scale=1" }, { "charset": "utf-8" }, { "http-equiv": "X-UA-Compatible", "content": "IE=edge" }, { "name": "keywords", "content": "Vue Nuxtjs Template Geekfolio Multi-Purpose themeforest" }, { "name": "description", "content": "Geekfolio - Multi-Purpose Vue Nuxtjs Template" }, { "name": "author", "content": "themescamp" }], "link": [{ "rel": "shortcut icon", "href": "/dark/assets/imgs/favicon.ico" }, { "rel": "stylesheet", "href": "https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&family=Lexend+Deca:wght@100;200;300;400;500;600;700;800;900&family=Epilogue:wght@100;200;300;400;500;600;700;800;900&family=Space+Grotesk:wght@300;400;500;600;700&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Sora:wght@100;200;300;400;500;600;700;800&display=swap" }, { "rel": "stylesheet", "href": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css" }, { "rel": "stylesheet", "href": "/dark/assets/css/plugins.css" }, { "rel": "stylesheet", "href": "/dark/assets/css/style.css" }], "style": [], "script": [{ "src": "/assets/js/plugins.js" }, { "src": "/assets/js/TweenMax.min.js" }, { "src": "/assets/js/charming.min.js" }, { "src": "/assets/js/countdown.js" }, { "src": "/assets/js/ScrollTrigger.min.js" }, { "src": "/assets/js/gsap.min.js" }, { "src": "/assets/js/splitting.min.js" }, { "src": "/assets/js/isotope.pkgd.min.js" }, { "src": "/assets/js/imgReveal/imagesloaded.pkgd.min.js" }, { "src": "/assets/js/ScrollSmoother.min.js" }, { "src": "/showcase/assets/js/anime.min.js" }, { "src": "/assets/js/scripts.js", "defer": true }], "noscript": [], "title": "Geekfolio", "htmlAttrs": { "lang": "en" } };
+const appHead = { "meta": [{ "name": "viewport", "content": "width=device-width, initial-scale=1" }, { "charset": "utf-8" }, { "http-equiv": "X-UA-Compatible", "content": "IE=edge" }, { "name": "keywords", "content": "DOME 2.0 戶外穹頂劇場" }, { "name": "description", "content": "臺灣當代文化實驗場（C-LAB）自 2020 年正式啟動「科技媒體實驗平台」，著重於媒體實驗創新與社會鏈結，以跨域、共創、協作方式，打造文化與科技的實驗平台。" }, { "name": "author", "content": "themescamp" }], "link": [{ "rel": "shortcut icon", "href": "/dark/assets/imgs/favicon.ico" }, { "rel": "stylesheet", "href": "https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&family=Lexend+Deca:wght@100;200;300;400;500;600;700;800;900&family=Epilogue:wght@100;200;300;400;500;600;700;800;900&family=Space+Grotesk:wght@300;400;500;600;700&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Sora:wght@100;200;300;400;500;600;700;800&display=swap" }, { "rel": "stylesheet", "href": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css" }, { "rel": "stylesheet", "href": "/dark/assets/css/plugins.css" }, { "rel": "stylesheet", "href": "/dark/assets/css/style.css" }], "style": [], "script": [{ "src": "/assets/js/plugins.js" }, { "src": "/assets/js/TweenMax.min.js" }, { "src": "/assets/js/charming.min.js" }, { "src": "/assets/js/countdown.js" }, { "src": "/assets/js/ScrollTrigger.min.js" }, { "src": "/assets/js/gsap.min.js" }, { "src": "/assets/js/splitting.min.js" }, { "src": "/assets/js/isotope.pkgd.min.js" }, { "src": "/assets/js/imgReveal/imagesloaded.pkgd.min.js" }, { "src": "/assets/js/ScrollSmoother.min.js" }, { "src": "/showcase/assets/js/anime.min.js" }, { "src": "/assets/js/scripts.js", "defer": true }], "noscript": [], "title": "FUTURE VISION LAB 2023", "htmlAttrs": { "lang": "en" } };
 const appLayoutTransition = false;
 const appPageTransition = false;
 const appKeepalive = false;
@@ -457,104 +457,8 @@ const unhead_KgADcZ0jPj = /* @__PURE__ */ defineNuxtPlugin({
     }
   }
 });
-const __nuxt_page_meta$H = {
-  layout: "showcases"
-};
-const __nuxt_page_meta$G = {
-  layout: "showcases"
-};
-const __nuxt_page_meta$F = {
-  layout: "showcases"
-};
-const __nuxt_page_meta$E = {
-  layout: "showcases"
-};
-const __nuxt_page_meta$D = {
-  layout: "showcases"
-};
-const __nuxt_page_meta$C = {
-  layout: "preview"
-};
-const __nuxt_page_meta$B = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$A = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$z = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$y = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$x = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$w = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$v = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$u = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$t = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$s = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$r = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$q = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$p = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$o = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$n = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$m = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$l = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$k = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$j = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$i = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$h = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$g = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$f = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$e = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$d = {
-  layout: "default-light"
-};
-const __nuxt_page_meta$c = {
-  layout: "default-light"
-};
 const __nuxt_page_meta$b = {
-  layout: "default-light"
+  layout: "default"
 };
 const __nuxt_page_meta$a = {
   layout: "default-light"
@@ -591,28 +495,12 @@ const __nuxt_page_meta = {
 };
 const _routes = [
   {
-    name: "dark-blog-classic",
-    path: "/dark/blog-classic",
-    meta: {},
-    alias: [],
-    redirect: void 0,
-    component: () => import("./_nuxt/index-04f83fd0.js").then((m) => m.default || m)
-  },
-  {
     name: "dark-blog-details",
     path: "/dark/blog-details",
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/index-a80e96ae.js").then((m) => m.default || m)
-  },
-  {
-    name: "dark-blog-half-img",
-    path: "/dark/blog-half-img",
-    meta: {},
-    alias: [],
-    redirect: void 0,
-    component: () => import("./_nuxt/index-9cb735fb.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-daa4411a.js").then((m) => m.default || m)
   },
   {
     name: "dark-blog-list",
@@ -620,63 +508,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/index-fc18911f.js").then((m) => m.default || m)
-  },
-  {
-    name: "dark-home-architecture",
-    path: "/dark/home-architecture",
-    meta: {},
-    alias: [],
-    redirect: void 0,
-    component: () => import("./_nuxt/index-9ab31fcd.js").then((m) => m.default || m)
-  },
-  {
-    name: "dark-home-corporate",
-    path: "/dark/home-corporate",
-    meta: {},
-    alias: [],
-    redirect: void 0,
-    component: () => import("./_nuxt/index-b5cad4a9.js").then((m) => m.default || m)
-  },
-  {
-    name: "dark-home-creative-agency",
-    path: "/dark/home-creative-agency",
-    meta: {},
-    alias: [],
-    redirect: void 0,
-    component: () => import("./_nuxt/index-48546ec3.js").then((m) => m.default || m)
-  },
-  {
-    name: "dark-home-digital-agency",
-    path: "/dark/home-digital-agency",
-    meta: {},
-    alias: [],
-    redirect: void 0,
-    component: () => import("./_nuxt/index-ef1d3f85.js").then((m) => m.default || m)
-  },
-  {
-    name: "dark-home-freelancer",
-    path: "/dark/home-freelancer",
-    meta: {},
-    alias: [],
-    redirect: void 0,
-    component: () => import("./_nuxt/index-78ef8088.js").then((m) => m.default || m)
-  },
-  {
-    name: "dark-home-main",
-    path: "/dark/home-main",
-    meta: {},
-    alias: [],
-    redirect: void 0,
-    component: () => import("./_nuxt/index-306d7ec6.js").then((m) => m.default || m)
-  },
-  {
-    name: "dark-home-marketing-agency",
-    path: "/dark/home-marketing-agency",
-    meta: {},
-    alias: [],
-    redirect: void 0,
-    component: () => import("./_nuxt/index-005c1146.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-0317b964.js").then((m) => m.default || m)
   },
   {
     name: "dark-home-onepage",
@@ -684,7 +516,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/index-79b64833.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-28c7f8e5.js").then((m) => m.default || m)
   },
   {
     name: "dark-home-startup",
@@ -692,7 +524,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/index-3664a5aa.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-a94929db.js").then((m) => m.default || m)
   },
   {
     name: "dark-page-about",
@@ -700,7 +532,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/index-89ddbf0b.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-f2dd30b5.js").then((m) => m.default || m)
   },
   {
     name: "dark-page-contact",
@@ -708,7 +540,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/index-cd00e9e6.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-c6038d93.js").then((m) => m.default || m)
   },
   {
     name: "dark-page-services",
@@ -716,7 +548,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/index-d4d1cb6e.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-b74c64ef.js").then((m) => m.default || m)
   },
   {
     name: "dark-page-team",
@@ -724,71 +556,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/index-549e974c.js").then((m) => m.default || m)
-  },
-  {
-    name: "dark-portfolio-grid-2",
-    path: "/dark/portfolio-grid-2",
-    meta: {},
-    alias: [],
-    redirect: void 0,
-    component: () => import("./_nuxt/index-cc4ea215.js").then((m) => m.default || m)
-  },
-  {
-    name: "dark-portfolio-grid-3",
-    path: "/dark/portfolio-grid-3",
-    meta: {},
-    alias: [],
-    redirect: void 0,
-    component: () => import("./_nuxt/index-1ed97f5f.js").then((m) => m.default || m)
-  },
-  {
-    name: "dark-portfolio-grid-4",
-    path: "/dark/portfolio-grid-4",
-    meta: {},
-    alias: [],
-    redirect: void 0,
-    component: () => import("./_nuxt/index-36f390dd.js").then((m) => m.default || m)
-  },
-  {
-    name: "dark-portfolio-masonry-2",
-    path: "/dark/portfolio-masonry-2",
-    meta: {},
-    alias: [],
-    redirect: void 0,
-    component: () => import("./_nuxt/index-d971aaa8.js").then((m) => m.default || m)
-  },
-  {
-    name: "dark-portfolio-masonry-3",
-    path: "/dark/portfolio-masonry-3",
-    meta: {},
-    alias: [],
-    redirect: void 0,
-    component: () => import("./_nuxt/index-272caffb.js").then((m) => m.default || m)
-  },
-  {
-    name: "dark-portfolio-masonry-4",
-    path: "/dark/portfolio-masonry-4",
-    meta: {},
-    alias: [],
-    redirect: void 0,
-    component: () => import("./_nuxt/index-ebed9ca3.js").then((m) => m.default || m)
-  },
-  {
-    name: "dark-portfolio-metro",
-    path: "/dark/portfolio-metro",
-    meta: {},
-    alias: [],
-    redirect: void 0,
-    component: () => import("./_nuxt/index-8a66c0dc.js").then((m) => m.default || m)
-  },
-  {
-    name: "dark-portfolio-modern",
-    path: "/dark/portfolio-modern",
-    meta: {},
-    alias: [],
-    redirect: void 0,
-    component: () => import("./_nuxt/index-0ded322b.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-47bc7c53.js").then((m) => m.default || m)
   },
   {
     name: "dark-project-details1",
@@ -796,7 +564,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/index-307c35fe.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-ffb5ec5d.js").then((m) => m.default || m)
   },
   {
     name: "dark-project-details2",
@@ -804,79 +572,23 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/index-275aa141.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-f0207279.js").then((m) => m.default || m)
   },
   {
-    name: "dark-shop-cart",
-    path: "/dark/shop-cart",
+    name: "dark-schedule",
+    path: "/dark/schedule",
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/index-d97a94b2.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-71574c6d.js").then((m) => m.default || m)
   },
   {
-    name: "dark-shop-checkout",
-    path: "/dark/shop-checkout",
+    name: "dark-sessions",
+    path: "/dark/sessions",
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/index-6272bfc0.js").then((m) => m.default || m)
-  },
-  {
-    name: "dark-shop-list",
-    path: "/dark/shop-list",
-    meta: {},
-    alias: [],
-    redirect: void 0,
-    component: () => import("./_nuxt/index-06499c12.js").then((m) => m.default || m)
-  },
-  {
-    name: "dark-shop-product",
-    path: "/dark/shop-product",
-    meta: {},
-    alias: [],
-    redirect: void 0,
-    component: () => import("./_nuxt/index-b1d9f6a6.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$H == null ? void 0 : __nuxt_page_meta$H.name) ?? "dark-showcase-carousel",
-    path: (__nuxt_page_meta$H == null ? void 0 : __nuxt_page_meta$H.path) ?? "/dark/showcase-carousel",
-    meta: __nuxt_page_meta$H || {},
-    alias: (__nuxt_page_meta$H == null ? void 0 : __nuxt_page_meta$H.alias) || [],
-    redirect: (__nuxt_page_meta$H == null ? void 0 : __nuxt_page_meta$H.redirect) || void 0,
-    component: () => import("./_nuxt/index-07dc6d5f.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$G == null ? void 0 : __nuxt_page_meta$G.name) ?? "dark-showcase-circle-slider",
-    path: (__nuxt_page_meta$G == null ? void 0 : __nuxt_page_meta$G.path) ?? "/dark/showcase-circle-slider",
-    meta: __nuxt_page_meta$G || {},
-    alias: (__nuxt_page_meta$G == null ? void 0 : __nuxt_page_meta$G.alias) || [],
-    redirect: (__nuxt_page_meta$G == null ? void 0 : __nuxt_page_meta$G.redirect) || void 0,
-    component: () => import("./_nuxt/index-89b030d8.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$F == null ? void 0 : __nuxt_page_meta$F.name) ?? "dark-showcase-frame-slider",
-    path: (__nuxt_page_meta$F == null ? void 0 : __nuxt_page_meta$F.path) ?? "/dark/showcase-frame-slider",
-    meta: __nuxt_page_meta$F || {},
-    alias: (__nuxt_page_meta$F == null ? void 0 : __nuxt_page_meta$F.alias) || [],
-    redirect: (__nuxt_page_meta$F == null ? void 0 : __nuxt_page_meta$F.redirect) || void 0,
-    component: () => import("./_nuxt/index-66904f61.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$E == null ? void 0 : __nuxt_page_meta$E.name) ?? "dark-showcase-interactive-center-horizontal",
-    path: (__nuxt_page_meta$E == null ? void 0 : __nuxt_page_meta$E.path) ?? "/dark/showcase-interactive-center-horizontal",
-    meta: __nuxt_page_meta$E || {},
-    alias: (__nuxt_page_meta$E == null ? void 0 : __nuxt_page_meta$E.alias) || [],
-    redirect: (__nuxt_page_meta$E == null ? void 0 : __nuxt_page_meta$E.redirect) || void 0,
-    component: () => import("./_nuxt/index-5dd0384f.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$D == null ? void 0 : __nuxt_page_meta$D.name) ?? "dark-showcase-interactive-center",
-    path: (__nuxt_page_meta$D == null ? void 0 : __nuxt_page_meta$D.path) ?? "/dark/showcase-interactive-center",
-    meta: __nuxt_page_meta$D || {},
-    alias: (__nuxt_page_meta$D == null ? void 0 : __nuxt_page_meta$D.alias) || [],
-    redirect: (__nuxt_page_meta$D == null ? void 0 : __nuxt_page_meta$D.redirect) || void 0,
-    component: () => import("./_nuxt/index-ef3607bd.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-044e6d11.js").then((m) => m.default || m)
   },
   {
     name: "dark-showcase-parallax-slider",
@@ -892,263 +604,47 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/index-7a7332ba.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-7aa05e0e.js").then((m) => m.default || m)
   },
   {
-    name: (__nuxt_page_meta$C == null ? void 0 : __nuxt_page_meta$C.name) ?? "index",
-    path: (__nuxt_page_meta$C == null ? void 0 : __nuxt_page_meta$C.path) ?? "/",
-    meta: __nuxt_page_meta$C || {},
-    alias: (__nuxt_page_meta$C == null ? void 0 : __nuxt_page_meta$C.alias) || [],
-    redirect: (__nuxt_page_meta$C == null ? void 0 : __nuxt_page_meta$C.redirect) || void 0,
-    component: () => import("./_nuxt/index-6390f2d4.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$B == null ? void 0 : __nuxt_page_meta$B.name) ?? "light-blog-classic",
-    path: (__nuxt_page_meta$B == null ? void 0 : __nuxt_page_meta$B.path) ?? "/light/blog-classic",
-    meta: __nuxt_page_meta$B || {},
-    alias: (__nuxt_page_meta$B == null ? void 0 : __nuxt_page_meta$B.alias) || [],
-    redirect: (__nuxt_page_meta$B == null ? void 0 : __nuxt_page_meta$B.redirect) || void 0,
-    component: () => import("./_nuxt/index-9cfe1bdc.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$A == null ? void 0 : __nuxt_page_meta$A.name) ?? "light-blog-details",
-    path: (__nuxt_page_meta$A == null ? void 0 : __nuxt_page_meta$A.path) ?? "/light/blog-details",
-    meta: __nuxt_page_meta$A || {},
-    alias: (__nuxt_page_meta$A == null ? void 0 : __nuxt_page_meta$A.alias) || [],
-    redirect: (__nuxt_page_meta$A == null ? void 0 : __nuxt_page_meta$A.redirect) || void 0,
-    component: () => import("./_nuxt/index-d9423bc1.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$z == null ? void 0 : __nuxt_page_meta$z.name) ?? "light-blog-half-img",
-    path: (__nuxt_page_meta$z == null ? void 0 : __nuxt_page_meta$z.path) ?? "/light/blog-half-img",
-    meta: __nuxt_page_meta$z || {},
-    alias: (__nuxt_page_meta$z == null ? void 0 : __nuxt_page_meta$z.alias) || [],
-    redirect: (__nuxt_page_meta$z == null ? void 0 : __nuxt_page_meta$z.redirect) || void 0,
-    component: () => import("./_nuxt/index-615f593d.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$y == null ? void 0 : __nuxt_page_meta$y.name) ?? "light-blog-list",
-    path: (__nuxt_page_meta$y == null ? void 0 : __nuxt_page_meta$y.path) ?? "/light/blog-list",
-    meta: __nuxt_page_meta$y || {},
-    alias: (__nuxt_page_meta$y == null ? void 0 : __nuxt_page_meta$y.alias) || [],
-    redirect: (__nuxt_page_meta$y == null ? void 0 : __nuxt_page_meta$y.redirect) || void 0,
-    component: () => import("./_nuxt/index-e110dc84.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$x == null ? void 0 : __nuxt_page_meta$x.name) ?? "light-home-architecture",
-    path: (__nuxt_page_meta$x == null ? void 0 : __nuxt_page_meta$x.path) ?? "/light/home-architecture",
-    meta: __nuxt_page_meta$x || {},
-    alias: (__nuxt_page_meta$x == null ? void 0 : __nuxt_page_meta$x.alias) || [],
-    redirect: (__nuxt_page_meta$x == null ? void 0 : __nuxt_page_meta$x.redirect) || void 0,
-    component: () => import("./_nuxt/index-274509b8.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$w == null ? void 0 : __nuxt_page_meta$w.name) ?? "light-home-corporate",
-    path: (__nuxt_page_meta$w == null ? void 0 : __nuxt_page_meta$w.path) ?? "/light/home-corporate",
-    meta: __nuxt_page_meta$w || {},
-    alias: (__nuxt_page_meta$w == null ? void 0 : __nuxt_page_meta$w.alias) || [],
-    redirect: (__nuxt_page_meta$w == null ? void 0 : __nuxt_page_meta$w.redirect) || void 0,
-    component: () => import("./_nuxt/index-682f7388.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$v == null ? void 0 : __nuxt_page_meta$v.name) ?? "light-home-creative-agency",
-    path: (__nuxt_page_meta$v == null ? void 0 : __nuxt_page_meta$v.path) ?? "/light/home-creative-agency",
-    meta: __nuxt_page_meta$v || {},
-    alias: (__nuxt_page_meta$v == null ? void 0 : __nuxt_page_meta$v.alias) || [],
-    redirect: (__nuxt_page_meta$v == null ? void 0 : __nuxt_page_meta$v.redirect) || void 0,
-    component: () => import("./_nuxt/index-72095141.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$u == null ? void 0 : __nuxt_page_meta$u.name) ?? "light-home-digital-agency",
-    path: (__nuxt_page_meta$u == null ? void 0 : __nuxt_page_meta$u.path) ?? "/light/home-digital-agency",
-    meta: __nuxt_page_meta$u || {},
-    alias: (__nuxt_page_meta$u == null ? void 0 : __nuxt_page_meta$u.alias) || [],
-    redirect: (__nuxt_page_meta$u == null ? void 0 : __nuxt_page_meta$u.redirect) || void 0,
-    component: () => import("./_nuxt/index-bb7f7554.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$t == null ? void 0 : __nuxt_page_meta$t.name) ?? "light-home-freelancer",
-    path: (__nuxt_page_meta$t == null ? void 0 : __nuxt_page_meta$t.path) ?? "/light/home-freelancer",
-    meta: __nuxt_page_meta$t || {},
-    alias: (__nuxt_page_meta$t == null ? void 0 : __nuxt_page_meta$t.alias) || [],
-    redirect: (__nuxt_page_meta$t == null ? void 0 : __nuxt_page_meta$t.redirect) || void 0,
-    component: () => import("./_nuxt/index-7434dfa9.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$s == null ? void 0 : __nuxt_page_meta$s.name) ?? "light-home-main",
-    path: (__nuxt_page_meta$s == null ? void 0 : __nuxt_page_meta$s.path) ?? "/light/home-main",
-    meta: __nuxt_page_meta$s || {},
-    alias: (__nuxt_page_meta$s == null ? void 0 : __nuxt_page_meta$s.alias) || [],
-    redirect: (__nuxt_page_meta$s == null ? void 0 : __nuxt_page_meta$s.redirect) || void 0,
-    component: () => import("./_nuxt/index-b37941e9.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$r == null ? void 0 : __nuxt_page_meta$r.name) ?? "light-home-marketing-agency",
-    path: (__nuxt_page_meta$r == null ? void 0 : __nuxt_page_meta$r.path) ?? "/light/home-marketing-agency",
-    meta: __nuxt_page_meta$r || {},
-    alias: (__nuxt_page_meta$r == null ? void 0 : __nuxt_page_meta$r.alias) || [],
-    redirect: (__nuxt_page_meta$r == null ? void 0 : __nuxt_page_meta$r.redirect) || void 0,
-    component: () => import("./_nuxt/index-7a957981.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$q == null ? void 0 : __nuxt_page_meta$q.name) ?? "light-home-onepage",
-    path: (__nuxt_page_meta$q == null ? void 0 : __nuxt_page_meta$q.path) ?? "/light/home-onepage",
-    meta: __nuxt_page_meta$q || {},
-    alias: (__nuxt_page_meta$q == null ? void 0 : __nuxt_page_meta$q.alias) || [],
-    redirect: (__nuxt_page_meta$q == null ? void 0 : __nuxt_page_meta$q.redirect) || void 0,
-    component: () => import("./_nuxt/index-c6bff284.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$p == null ? void 0 : __nuxt_page_meta$p.name) ?? "light-home-startup",
-    path: (__nuxt_page_meta$p == null ? void 0 : __nuxt_page_meta$p.path) ?? "/light/home-startup",
-    meta: __nuxt_page_meta$p || {},
-    alias: (__nuxt_page_meta$p == null ? void 0 : __nuxt_page_meta$p.alias) || [],
-    redirect: (__nuxt_page_meta$p == null ? void 0 : __nuxt_page_meta$p.redirect) || void 0,
-    component: () => import("./_nuxt/index-cbf106f9.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$o == null ? void 0 : __nuxt_page_meta$o.name) ?? "light-page-about",
-    path: (__nuxt_page_meta$o == null ? void 0 : __nuxt_page_meta$o.path) ?? "/light/page-about",
-    meta: __nuxt_page_meta$o || {},
-    alias: (__nuxt_page_meta$o == null ? void 0 : __nuxt_page_meta$o.alias) || [],
-    redirect: (__nuxt_page_meta$o == null ? void 0 : __nuxt_page_meta$o.redirect) || void 0,
-    component: () => import("./_nuxt/index-ca36b64b.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$n == null ? void 0 : __nuxt_page_meta$n.name) ?? "light-page-contact",
-    path: (__nuxt_page_meta$n == null ? void 0 : __nuxt_page_meta$n.path) ?? "/light/page-contact",
-    meta: __nuxt_page_meta$n || {},
-    alias: (__nuxt_page_meta$n == null ? void 0 : __nuxt_page_meta$n.alias) || [],
-    redirect: (__nuxt_page_meta$n == null ? void 0 : __nuxt_page_meta$n.redirect) || void 0,
-    component: () => import("./_nuxt/index-c661940d.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$m == null ? void 0 : __nuxt_page_meta$m.name) ?? "light-page-services",
-    path: (__nuxt_page_meta$m == null ? void 0 : __nuxt_page_meta$m.path) ?? "/light/page-services",
-    meta: __nuxt_page_meta$m || {},
-    alias: (__nuxt_page_meta$m == null ? void 0 : __nuxt_page_meta$m.alias) || [],
-    redirect: (__nuxt_page_meta$m == null ? void 0 : __nuxt_page_meta$m.redirect) || void 0,
-    component: () => import("./_nuxt/index-029bf3f0.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$l == null ? void 0 : __nuxt_page_meta$l.name) ?? "light-page-team",
-    path: (__nuxt_page_meta$l == null ? void 0 : __nuxt_page_meta$l.path) ?? "/light/page-team",
-    meta: __nuxt_page_meta$l || {},
-    alias: (__nuxt_page_meta$l == null ? void 0 : __nuxt_page_meta$l.alias) || [],
-    redirect: (__nuxt_page_meta$l == null ? void 0 : __nuxt_page_meta$l.redirect) || void 0,
-    component: () => import("./_nuxt/index-eb728bc6.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$k == null ? void 0 : __nuxt_page_meta$k.name) ?? "light-portfolio-grid-2",
-    path: (__nuxt_page_meta$k == null ? void 0 : __nuxt_page_meta$k.path) ?? "/light/portfolio-grid-2",
-    meta: __nuxt_page_meta$k || {},
-    alias: (__nuxt_page_meta$k == null ? void 0 : __nuxt_page_meta$k.alias) || [],
-    redirect: (__nuxt_page_meta$k == null ? void 0 : __nuxt_page_meta$k.redirect) || void 0,
-    component: () => import("./_nuxt/index-6760be2f.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$j == null ? void 0 : __nuxt_page_meta$j.name) ?? "light-portfolio-grid-3",
-    path: (__nuxt_page_meta$j == null ? void 0 : __nuxt_page_meta$j.path) ?? "/light/portfolio-grid-3",
-    meta: __nuxt_page_meta$j || {},
-    alias: (__nuxt_page_meta$j == null ? void 0 : __nuxt_page_meta$j.alias) || [],
-    redirect: (__nuxt_page_meta$j == null ? void 0 : __nuxt_page_meta$j.redirect) || void 0,
-    component: () => import("./_nuxt/index-eb66c34d.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$i == null ? void 0 : __nuxt_page_meta$i.name) ?? "light-portfolio-grid-4",
-    path: (__nuxt_page_meta$i == null ? void 0 : __nuxt_page_meta$i.path) ?? "/light/portfolio-grid-4",
-    meta: __nuxt_page_meta$i || {},
-    alias: (__nuxt_page_meta$i == null ? void 0 : __nuxt_page_meta$i.alias) || [],
-    redirect: (__nuxt_page_meta$i == null ? void 0 : __nuxt_page_meta$i.redirect) || void 0,
-    component: () => import("./_nuxt/index-d670b6ef.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$h == null ? void 0 : __nuxt_page_meta$h.name) ?? "light-portfolio-masonry-2",
-    path: (__nuxt_page_meta$h == null ? void 0 : __nuxt_page_meta$h.path) ?? "/light/portfolio-masonry-2",
-    meta: __nuxt_page_meta$h || {},
-    alias: (__nuxt_page_meta$h == null ? void 0 : __nuxt_page_meta$h.alias) || [],
-    redirect: (__nuxt_page_meta$h == null ? void 0 : __nuxt_page_meta$h.redirect) || void 0,
-    component: () => import("./_nuxt/index-1c6c82c3.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$g == null ? void 0 : __nuxt_page_meta$g.name) ?? "light-portfolio-masonry-3",
-    path: (__nuxt_page_meta$g == null ? void 0 : __nuxt_page_meta$g.path) ?? "/light/portfolio-masonry-3",
-    meta: __nuxt_page_meta$g || {},
-    alias: (__nuxt_page_meta$g == null ? void 0 : __nuxt_page_meta$g.alias) || [],
-    redirect: (__nuxt_page_meta$g == null ? void 0 : __nuxt_page_meta$g.redirect) || void 0,
-    component: () => import("./_nuxt/index-50397769.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$f == null ? void 0 : __nuxt_page_meta$f.name) ?? "light-portfolio-masonry-4",
-    path: (__nuxt_page_meta$f == null ? void 0 : __nuxt_page_meta$f.path) ?? "/light/portfolio-masonry-4",
-    meta: __nuxt_page_meta$f || {},
-    alias: (__nuxt_page_meta$f == null ? void 0 : __nuxt_page_meta$f.alias) || [],
-    redirect: (__nuxt_page_meta$f == null ? void 0 : __nuxt_page_meta$f.redirect) || void 0,
-    component: () => import("./_nuxt/index-d065e75d.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$e == null ? void 0 : __nuxt_page_meta$e.name) ?? "light-portfolio-metro",
-    path: (__nuxt_page_meta$e == null ? void 0 : __nuxt_page_meta$e.path) ?? "/light/portfolio-metro",
-    meta: __nuxt_page_meta$e || {},
-    alias: (__nuxt_page_meta$e == null ? void 0 : __nuxt_page_meta$e.alias) || [],
-    redirect: (__nuxt_page_meta$e == null ? void 0 : __nuxt_page_meta$e.redirect) || void 0,
-    component: () => import("./_nuxt/index-7b0581f8.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$d == null ? void 0 : __nuxt_page_meta$d.name) ?? "light-portfolio-modern",
-    path: (__nuxt_page_meta$d == null ? void 0 : __nuxt_page_meta$d.path) ?? "/light/portfolio-modern",
-    meta: __nuxt_page_meta$d || {},
-    alias: (__nuxt_page_meta$d == null ? void 0 : __nuxt_page_meta$d.alias) || [],
-    redirect: (__nuxt_page_meta$d == null ? void 0 : __nuxt_page_meta$d.redirect) || void 0,
-    component: () => import("./_nuxt/index-1159285b.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$c == null ? void 0 : __nuxt_page_meta$c.name) ?? "light-project-details1",
-    path: (__nuxt_page_meta$c == null ? void 0 : __nuxt_page_meta$c.path) ?? "/light/project-details1",
-    meta: __nuxt_page_meta$c || {},
-    alias: (__nuxt_page_meta$c == null ? void 0 : __nuxt_page_meta$c.alias) || [],
-    redirect: (__nuxt_page_meta$c == null ? void 0 : __nuxt_page_meta$c.redirect) || void 0,
-    component: () => import("./_nuxt/index-f47ef36c.js").then((m) => m.default || m)
-  },
-  {
-    name: (__nuxt_page_meta$b == null ? void 0 : __nuxt_page_meta$b.name) ?? "light-project-details2",
-    path: (__nuxt_page_meta$b == null ? void 0 : __nuxt_page_meta$b.path) ?? "/light/project-details2",
+    name: (__nuxt_page_meta$b == null ? void 0 : __nuxt_page_meta$b.name) ?? "index",
+    path: (__nuxt_page_meta$b == null ? void 0 : __nuxt_page_meta$b.path) ?? "/",
     meta: __nuxt_page_meta$b || {},
     alias: (__nuxt_page_meta$b == null ? void 0 : __nuxt_page_meta$b.alias) || [],
     redirect: (__nuxt_page_meta$b == null ? void 0 : __nuxt_page_meta$b.redirect) || void 0,
-    component: () => import("./_nuxt/index-a4080d34.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-a4ba4dfc.js").then((m) => m.default || m)
   },
   {
-    name: (__nuxt_page_meta$a == null ? void 0 : __nuxt_page_meta$a.name) ?? "light-shop-cart",
-    path: (__nuxt_page_meta$a == null ? void 0 : __nuxt_page_meta$a.path) ?? "/light/shop-cart",
+    name: (__nuxt_page_meta$a == null ? void 0 : __nuxt_page_meta$a.name) ?? "light-home-onepage",
+    path: (__nuxt_page_meta$a == null ? void 0 : __nuxt_page_meta$a.path) ?? "/light/home-onepage",
     meta: __nuxt_page_meta$a || {},
     alias: (__nuxt_page_meta$a == null ? void 0 : __nuxt_page_meta$a.alias) || [],
     redirect: (__nuxt_page_meta$a == null ? void 0 : __nuxt_page_meta$a.redirect) || void 0,
-    component: () => import("./_nuxt/index-77b99a68.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-86333da6.js").then((m) => m.default || m)
   },
   {
-    name: (__nuxt_page_meta$9 == null ? void 0 : __nuxt_page_meta$9.name) ?? "light-shop-checkout",
-    path: (__nuxt_page_meta$9 == null ? void 0 : __nuxt_page_meta$9.path) ?? "/light/shop-checkout",
+    name: (__nuxt_page_meta$9 == null ? void 0 : __nuxt_page_meta$9.name) ?? "light-page-about",
+    path: (__nuxt_page_meta$9 == null ? void 0 : __nuxt_page_meta$9.path) ?? "/light/page-about",
     meta: __nuxt_page_meta$9 || {},
     alias: (__nuxt_page_meta$9 == null ? void 0 : __nuxt_page_meta$9.alias) || [],
     redirect: (__nuxt_page_meta$9 == null ? void 0 : __nuxt_page_meta$9.redirect) || void 0,
-    component: () => import("./_nuxt/index-5a697d3b.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-480a47a2.js").then((m) => m.default || m)
   },
   {
-    name: (__nuxt_page_meta$8 == null ? void 0 : __nuxt_page_meta$8.name) ?? "light-shop-list",
-    path: (__nuxt_page_meta$8 == null ? void 0 : __nuxt_page_meta$8.path) ?? "/light/shop-list",
+    name: (__nuxt_page_meta$8 == null ? void 0 : __nuxt_page_meta$8.name) ?? "light-portfolio-grid-2",
+    path: (__nuxt_page_meta$8 == null ? void 0 : __nuxt_page_meta$8.path) ?? "/light/portfolio-grid-2",
     meta: __nuxt_page_meta$8 || {},
     alias: (__nuxt_page_meta$8 == null ? void 0 : __nuxt_page_meta$8.alias) || [],
     redirect: (__nuxt_page_meta$8 == null ? void 0 : __nuxt_page_meta$8.redirect) || void 0,
-    component: () => import("./_nuxt/index-ac32f5e4.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-1d209772.js").then((m) => m.default || m)
   },
   {
-    name: (__nuxt_page_meta$7 == null ? void 0 : __nuxt_page_meta$7.name) ?? "light-shop-product",
-    path: (__nuxt_page_meta$7 == null ? void 0 : __nuxt_page_meta$7.path) ?? "/light/shop-product",
+    name: (__nuxt_page_meta$7 == null ? void 0 : __nuxt_page_meta$7.name) ?? "light-schedule",
+    path: (__nuxt_page_meta$7 == null ? void 0 : __nuxt_page_meta$7.path) ?? "/light/schedule",
     meta: __nuxt_page_meta$7 || {},
     alias: (__nuxt_page_meta$7 == null ? void 0 : __nuxt_page_meta$7.alias) || [],
     redirect: (__nuxt_page_meta$7 == null ? void 0 : __nuxt_page_meta$7.redirect) || void 0,
-    component: () => import("./_nuxt/index-be2674ba.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-91bf4ee3.js").then((m) => m.default || m)
   },
   {
     name: (__nuxt_page_meta$6 == null ? void 0 : __nuxt_page_meta$6.name) ?? "light-showcase-carousel",
@@ -1156,7 +652,7 @@ const _routes = [
     meta: __nuxt_page_meta$6 || {},
     alias: (__nuxt_page_meta$6 == null ? void 0 : __nuxt_page_meta$6.alias) || [],
     redirect: (__nuxt_page_meta$6 == null ? void 0 : __nuxt_page_meta$6.redirect) || void 0,
-    component: () => import("./_nuxt/index-1b8d9cfa.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-856ef2fd.js").then((m) => m.default || m)
   },
   {
     name: (__nuxt_page_meta$5 == null ? void 0 : __nuxt_page_meta$5.name) ?? "light-showcase-circle-slider",
@@ -1164,7 +660,7 @@ const _routes = [
     meta: __nuxt_page_meta$5 || {},
     alias: (__nuxt_page_meta$5 == null ? void 0 : __nuxt_page_meta$5.alias) || [],
     redirect: (__nuxt_page_meta$5 == null ? void 0 : __nuxt_page_meta$5.redirect) || void 0,
-    component: () => import("./_nuxt/index-bfe486fb.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-900dbfc0.js").then((m) => m.default || m)
   },
   {
     name: (__nuxt_page_meta$4 == null ? void 0 : __nuxt_page_meta$4.name) ?? "light-showcase-frame-slider",
@@ -1172,7 +668,7 @@ const _routes = [
     meta: __nuxt_page_meta$4 || {},
     alias: (__nuxt_page_meta$4 == null ? void 0 : __nuxt_page_meta$4.alias) || [],
     redirect: (__nuxt_page_meta$4 == null ? void 0 : __nuxt_page_meta$4.redirect) || void 0,
-    component: () => import("./_nuxt/index-f5447f55.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-ddfd953b.js").then((m) => m.default || m)
   },
   {
     name: (__nuxt_page_meta$3 == null ? void 0 : __nuxt_page_meta$3.name) ?? "light-showcase-interactive-center-horizontal",
@@ -1180,7 +676,7 @@ const _routes = [
     meta: __nuxt_page_meta$3 || {},
     alias: (__nuxt_page_meta$3 == null ? void 0 : __nuxt_page_meta$3.alias) || [],
     redirect: (__nuxt_page_meta$3 == null ? void 0 : __nuxt_page_meta$3.redirect) || void 0,
-    component: () => import("./_nuxt/index-451e503c.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-fe7edda7.js").then((m) => m.default || m)
   },
   {
     name: (__nuxt_page_meta$2 == null ? void 0 : __nuxt_page_meta$2.name) ?? "light-showcase-interactive-center",
@@ -1188,7 +684,7 @@ const _routes = [
     meta: __nuxt_page_meta$2 || {},
     alias: (__nuxt_page_meta$2 == null ? void 0 : __nuxt_page_meta$2.alias) || [],
     redirect: (__nuxt_page_meta$2 == null ? void 0 : __nuxt_page_meta$2.redirect) || void 0,
-    component: () => import("./_nuxt/index-eb396cbb.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-0e2ccb47.js").then((m) => m.default || m)
   },
   {
     name: (__nuxt_page_meta$1 == null ? void 0 : __nuxt_page_meta$1.name) ?? "light-showcase-parallax-slider",
@@ -1204,7 +700,7 @@ const _routes = [
     meta: __nuxt_page_meta || {},
     alias: (__nuxt_page_meta == null ? void 0 : __nuxt_page_meta.alias) || [],
     redirect: (__nuxt_page_meta == null ? void 0 : __nuxt_page_meta.redirect) || void 0,
-    component: () => import("./_nuxt/index-c3ee8d4c.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-e342f6a1.js").then((m) => m.default || m)
   }
 ];
 const routerOptions0 = {
@@ -1699,7 +1195,6 @@ const entry$1 = (ctx) => entry(ctx);
 export {
   _export_sfc as _,
   useRouter as a,
-  useState as b,
   createError as c,
   entry$1 as default,
   navigateTo as n,
